@@ -23,7 +23,7 @@
 
 ### 💼 Projetos Recentes (em expansão)
 
-- [Perfil Clone - Um clone do popular jogo "Perfil" feito em .Net 6](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [Perfil Clone - Um clone do popular jogo "Perfil" feito em .Net 6]()
 
 
 <br/>
